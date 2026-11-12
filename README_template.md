@@ -64,7 +64,7 @@ Justification (one or two sentences: team size, hours available, course load): <
 
 | Sprint | User stories (in order) | Story points planned | Points remaining after sprint | Dependencies checked (Y/N) |
 | --- | --- | --- | --- | --- |
-| Sprint ? |  |  |  |  |
+| Sprint 1 |  |  |  |  |
 | **Total** |  |  | — | — |
 
 # Sequence Diagram
